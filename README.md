@@ -58,7 +58,7 @@ CSV files named `matchups-YYYY.csv` with columns:
 ---
 
 ## Usage
-1. Install the required libraries using the following command: pip install numpy pandas scikit-learn xgboost
+1. Install the required libraries using the following command: 'pip install numpy pandas scikit-learn xgboost'
 2. Ensure CSV files are in the working directory.  
 3. Run the script: Results are printed to terminal and saved to training_testing_results.csv.
 
